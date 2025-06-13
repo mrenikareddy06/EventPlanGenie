@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Streamlit
+*.pdf
+*.png
+*.jpg
+
+# VSCode
+.vscode/
+
+# Others
+*.log
