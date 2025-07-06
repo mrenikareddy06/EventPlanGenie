@@ -22,3 +22,7 @@ venv/
 
 # Others
 *.log
+.venv/
+__pycache__/
+*.pyc
+*.log
