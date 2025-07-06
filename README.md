@@ -120,3 +120,4 @@ streamlit run frontend/streamlit_app.py
 ## Architecture (Visualized)
 
 ![image](https://github.com/user-attachments/assets/5b9fe3e5-8e28-44d5-bfc4-b722afa9d9aa)
+# EventPlanGenie-v3
